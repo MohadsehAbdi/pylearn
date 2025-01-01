@@ -1,5 +1,5 @@
 #pylaern
-#python learning
+##python learning
 This repository contains my python learning exercises and progress.
 Here,you'll find:
 **Exercises**:Code snippets and solutions for various Python problems.
