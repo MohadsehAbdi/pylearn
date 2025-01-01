@@ -1,7 +1,7 @@
 **pylaern**
 
 
-**python learning**
+**python learning**:
 
 
 
@@ -21,6 +21,6 @@ Here,you'll find:
 
 **Notes**:Key concepts, tips, and tricks about Python programming.
 
-**Python Versions**
+**Python Versions**:
 
 I am using Python 3.12.7 and 3.13
